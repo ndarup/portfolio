@@ -16,7 +16,7 @@ body {
 
 
 :root {
-  --mainColor: #3aafa9;
+  --mainColor: #99ccff;
 }
 
 
@@ -93,7 +93,7 @@ a.highlight:hover {
 }
 .navbar-default {
   background-color: #ffffff;
-  border-color: #3aafa9;
+  border-color: #99ccff;
 }
 .navbar-default .navbar-nav > li > a {
   color: #17252a;
@@ -853,7 +853,7 @@ footer.entry-meta .meta-in {
   margin: 0 0 20px;
 }
 #underfooter {
-  background: #2b7a72;
+  background: #003366;
   padding: 15px 0;
   color: #17252a;
   font-size: 12px;
