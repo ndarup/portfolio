@@ -601,7 +601,7 @@ img {
 .entry-title span {
   display: inline-block;
   position: relative;
-  color: #17252a
+  color: #99CCFF
 }
 .section-title span:before,
 .entry-title span:before,
@@ -612,8 +612,8 @@ img {
   height: 4px;
   top: .53em;
   width: 400%;
-  border-bottom: 1px solid #ccc;
-  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #99CCFF;
+  border-top: 1px solid #99CCFF;
 }
 .section-title span:before,
 .entry-title span:before {
